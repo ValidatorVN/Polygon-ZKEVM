@@ -3,8 +3,8 @@
 Cấu hính khuyến cáo:
 
     4 core
-    8gb ram
-    400ssd
+    16gb ram
+    100ssd
     
 1/ Nâng cấp hệ thống:
 
